@@ -29,7 +29,7 @@ body {
 .nav > ul > li > a {
     background: rgb(211, 211, 211);
     border-radius: 20px;
-    margin: 5px;
+    margin: 1px;
     box-shadow: 0 3px 5px 0 black;
 }
 li > img {
